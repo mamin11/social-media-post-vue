@@ -1,4 +1,6 @@
-# vue-app
+# Social Media Post
+
+![Alt Text](giff/giff.gif)
 
 ## Project setup
 ```
